@@ -18,10 +18,6 @@ This repository contains the project work completed as part of a 4-week remote i
 * **JavaScript** – Dynamic behavior and user interaction
 * **GitHub** – Version control and project submission
 
-## 📁 Project Structure
-
-* `Task-1` to `Task-5`: Each folder contains a separate web project with source files and screenshots.
-
 ## ✅ Outcome
 
 This internship provided practical exposure to frontend development workflows. It helped me improve problem-solving, code quality, and overall confidence in building web interfaces.
