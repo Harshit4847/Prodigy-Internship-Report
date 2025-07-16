@@ -2,7 +2,7 @@
 
 ## 📄 Summary
 
-This repository contains the project work completed as part of a 4-week remote internship with **Prodigy InfoTech** in **Full Stack Web Development**. During this internship, I worked on several tasks focusing on building responsive websites using core web technologies. Each task helped strengthen my understanding of real-world frontend development practices and coding standards.
+This repository contains the report and certificate of project work completed as part of a 4-week remote internship with **Prodigy InfoTech** in **Full Stack Web Development**. During this internship, I worked on several tasks focusing on building responsive websites using core web technologies. Each task helped strengthen my understanding of real-world frontend development practices and coding standards.
 
 ## 🚀 Internship Highlights
 
